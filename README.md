@@ -53,4 +53,6 @@ Dataset Source
 Original Mendeley Dataset
 
 It is Version 1, published June 22, 2026, with DOI [10.17632/h2rmbfr68t.1](https://doi.org/10.17632/h2rmbfr68t.1) and a CC BY 4.0 license.
+## Raw Dataset Source
 
+[India Tech Career Intelligence — Salary, Skills & Hiring Trends Analysis](https://github.com/bharathisri1991-code/India-Tech-Career-Intelligence-Salary-Skills-Hiring-Trends-Analysis-Using-Python-And-Power-BI)
